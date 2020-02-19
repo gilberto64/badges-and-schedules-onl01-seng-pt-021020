@@ -105,6 +105,3 @@ TEXT
       printer(attendees)
     end
 
-  end
-
-end
